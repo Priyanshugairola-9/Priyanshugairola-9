@@ -86,18 +86,6 @@ Currently exploring:
 
 ---
 
-# 🧠 Core Computer Science
-
-```text
-Data Structures
-Algorithms
-Object-Oriented Programming
-Graph Algorithms
-Problem Solving
-Memory Management
-File Handling
-Algorithmic Complexity
-
 ## 📫 Let's Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/priyanshu-gairola-6b160a381/)
 - 💻 [LeetCode](https://leetcode.com/u/Priyanshu_Gairola/)
