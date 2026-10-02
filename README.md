@@ -78,7 +78,7 @@ Currently focused on strengthening my foundations in:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55" alt="Scikit-learn"/>
 </p>
 
-`NumPy` • `Pandas` • `Matplotlib` • `Scikit-learn`
+`Python` • `NumPy` • `Pandas` • `Matplotlib` • `Scikit-learn`
 
 Currently exploring:
 
