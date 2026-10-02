@@ -97,3 +97,10 @@ Problem Solving
 Memory Management
 File Handling
 Algorithmic Complexity
+
+## 📫 Let's Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/priyanshu-gairola-6b160a381/)
+- 💻 [LeetCode](https://leetcode.com/u/Priyanshu_Gairola/)
+
+## 📊 GitHub Stats
+![Priyanshu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyanshugairola-9&theme=dark&hide_border=true)
