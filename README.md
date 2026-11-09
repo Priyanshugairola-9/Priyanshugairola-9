@@ -4,15 +4,6 @@
 B.Tech CSE — Artificial Intelligence & Machine Learning
 </h3>
 
-<p align="center">
-  <a href="https://github.com/Priyanshugairola-9">
-    <img src="https://komarev.com/ghpvc/?username=Priyanshugairola-9&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/Priyanshugairola-9?tab=followers">
-    <img src="https://img.shields.io/github/followers/Priyanshugairola-9?label=Followers&style=flat" alt="GitHub Followers"/>
-  </a>
-</p>
-
 ---
 
 # 👋 About Me
@@ -87,8 +78,25 @@ Currently exploring:
 ---
 
 ## 📫 Let's Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/priyanshu-gairola-6b160a381/)
-- 💻 [LeetCode](https://leetcode.com/u/Priyanshu_Gairola/)
+## 📫 Let's Connect
+
+<p align="left">
+  <a href="mailto:priyanshugairolaa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/priyanshu-gairola-6b160a381/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Priyanshu_Gairola/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Priyanshugairola-9">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ## 📊 GitHub Stats
 ![Priyanshu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyanshugairola-9&theme=dark&hide_border=true)
