@@ -4,7 +4,7 @@
 B.Tech CSE — Artificial Intelligence & Machine Learning
 </h3>
 
-<p align="left">
+<p align="middle">
   <a href="mailto:priyanshugairolaa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
