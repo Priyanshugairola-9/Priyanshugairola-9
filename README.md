@@ -58,7 +58,7 @@ I enjoy breaking complex problems into smaller, solvable steps and turning stron
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="50" height="50" alt="Google Colab"/>
 </p>
 
-**Currently exploring: AI & ML**
+**AI & ML**
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
